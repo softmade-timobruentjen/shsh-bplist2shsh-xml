@@ -4,3 +4,9 @@ c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\D
 c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.csprojResolveAssemblyReference.cache
 c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.exe
 c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.pdb
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.exe.config
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.exe
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.pdb
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.csprojAssemblyReference.cache
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.exe
+C:\Users\TMBRUENT\Source\Repos\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.pdb

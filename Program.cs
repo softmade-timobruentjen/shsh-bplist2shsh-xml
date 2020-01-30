@@ -74,7 +74,7 @@ namespace shsh_bplist2shsh_xml
                     }
                     break;
             }
-            return;
+            //return;
             File.Delete(bplist + ".copy.shsh");
 
         }

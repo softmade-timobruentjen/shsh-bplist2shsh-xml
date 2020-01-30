@@ -839,7 +839,8 @@ namespace PlistCS
                         return parseBinaryArray(objRef);
                     }
             }
-            throw new Exception("This type is not supported");
+            //throw new Exception("This type is not supported");
+            return null;
         }
 
         public static object parseBinaryDate(int headerPosition)
